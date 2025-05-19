@@ -1,0 +1,10 @@
+{
+    "lastid":  "1",
+    "server":  "syslog_server_FQDN",
+    "ApplicationName":  "iwss-1.0",
+    "hostname":  "inwebo.com",
+    "severity":  "info",
+    "port":  "514",
+    "transport":  "UDP",
+    "facility":  "local0"
+}

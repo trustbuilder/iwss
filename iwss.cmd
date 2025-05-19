@@ -1,0 +1,1 @@
+@powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "& '.\%~n0.ps1' %*
